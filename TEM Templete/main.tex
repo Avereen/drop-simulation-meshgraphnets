@@ -1,4 +1,16 @@
 \documentclass{NSF}
+\usepackage{cite}
+\usepackage{soul}		% added for strike out
+\usepackage{multirow} 	% added for centering text in the table
+\usepackage{float} % added for H to force figures to locations.
+\usepackage{xfrac} % math symbol extension
+\newcommand{\thedate}{\today}
+\renewcommand{\thefigure}{\arabic{figure}}
+\renewcommand{\thetable}{\Roman{table}}
+\newcommand{\bl}[1]{\textcolor[rgb]{0.00,0.00,1.00}{#1}}
+\newcommand{\gr}[1]{\textcolor[rgb]{0.00,0.50,0.00}{#1}}
+\newcommand{\rd}[1]{\textcolor[rgb]{0.75,0.00,0.00}{\st{#1}}}
+\newcommand{\tl}[1]{\textcolor[rgb]{0,0.6,0.60}{#1}}
 
 \graphicspath{{figures/}}
 
@@ -10,19 +22,40 @@
 % Complete the rest of your info there
 
 % B. Project Summary
-\title{NSF Proposal Template}
+\title{Learning Mesh-Based Simulations for Predicting Weapon Effects}
 \newsection{B}
 \input{sections/summary}
 
 % C. Table of Contents 
 % A Table of Contents is automatically generated for the proposal by FastLane
 
+
 % D. Project Description
 \newpage\newsection{D}
 \input{sections/description}
 
-% E. References Cited
+% E. Background
 \newpage\newsection{E}
+\input{sections/background}
+
+% F. Environmental-config
+\newpage\newsection{F}
+\input{sections/environmental-config}
+
+% G. Code-base
+\newpage\newsection{G}
+\input{sections/code-base}
+
+% H. Results
+\newpage\newsection{H}
+\input{sections/results}
+
+% I. Conclusion
+\newpage\newsection{I}
+\input{sections/conclusion}
+
+% J. References Cited
+\newpage\newsection{J}
 \renewcommand\refname{References Cited}
 \bibliography{references}
 % I prefer to use the IEEE bibliography style. 
@@ -30,25 +63,8 @@
 % Feel Free to use whatever style you prefer
 \bibliographystyle{IEEEtran}
 
-% F. Biographical Sketch(es)
-\newpage\newsection{F}
-\input{sections/bio}
-
-% G. Budget Justification
-\newpage\newsection{G}
-\input{sections/budget}
-
-%  H. Current and Pending Support
-\newpage\newsection{H}
-\input{sections/support}
-
-% I. Facilities, Equipment and Other Resources
-\newpage\newsection{I}
-\input{sections/resources}
-
-% J. Special Information and Supplementary Documentation
-\newpage\newsection{J}
-\input{sections/data}		% Data Management Plan (Required)
-%\input{sections/postdoc} % Postdoctoral Researcher Mentoring Plan (if applicable)
+% K. Appendix
+\newpage\newsection{K}
+\input{sections/appendix}
 
 \end{document}
