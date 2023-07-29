@@ -1,0 +1,1 @@
+pip install torch torch_geometric torch-scatter -f https://pytorch-geometric.com/whl/torch-2.0.1%2Bcpu.html
