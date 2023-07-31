@@ -1,16 +1,17 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.25)  24 JUL 2023 15:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.7.26)  31 JUL 2023 09:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./main.tex
 (main.tex
-LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2022-12-17> (NSF.cls
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
+(NSF.cls
 Document Class: NSF 
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/base\article.cls
-Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/base\size11.clo
-File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -29,7 +30,7 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
+\KV@toks@=\toks17
 )
 (C:\Users\Alexander\Downloads\My Documents\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
@@ -48,11 +49,11 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutheight=\dimen146
 \Gm@layouthoffset=\dimen147
 \Gm@layoutvoffset=\dimen148
-\Gm@dimlist=\toks17
+\Gm@dimlist=\toks18
 
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/geometry\geometry.cfg))
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
 
 (C:\Users\Alexander\Downloads\My Documents\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
@@ -87,7 +88,7 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/hyperref\nameref.sty
-Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
 
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
@@ -100,43 +101,44 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count196
+) (C:\Users\Alexander\Downloads\My Documents\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count197
 )
 \@linkdim=\dimen149
-\Hy@linkcounter=\count197
-\Hy@pagecounter=\count198
+\Hy@linkcounter=\count198
+\Hy@pagecounter=\count199
+
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 (C:\Users\Alexander\Downloads\My Documents\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(C:\Users\Alexander\Downloads\My Documents\tex/generic/etexcmds\etexcmds.sty
-Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-)
-\Hy@SavedSpaceFactor=\count199
+\Hy@SavedSpaceFactor=\count266
 
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/hyperref\puenc.def
-File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 4045.
-Package hyperref Info: Hyper figures OFF on input line 4162.
-Package hyperref Info: Link nesting OFF on input line 4167.
-Package hyperref Info: Hyper index ON on input line 4170.
-Package hyperref Info: Plain pages OFF on input line 4177.
-Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4050.
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4410.
-\c@Hy@tempcnt=\count266
+Package hyperref Info: Bookmarks ON on input line 4434.
+\c@Hy@tempcnt=\count267
 
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4748.
+LaTeX Info: Redefining \url on input line 4772.
 \XeTeXLinkMargin=\dimen150
 
 (C:\Users\Alexander\Downloads\My Documents\tex/generic/bitset\bitset.sty
@@ -147,35 +149,35 @@ y
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count267
+\Fld@menulength=\count268
 \Field@Width=\dimen151
 \Fld@charsize=\dimen152
-Package hyperref Info: Hyper figures OFF on input line 6027.
-Package hyperref Info: Link nesting OFF on input line 6032.
-Package hyperref Info: Hyper index ON on input line 6035.
-Package hyperref Info: backreferencing OFF on input line 6042.
-Package hyperref Info: Link coloring ON on input line 6045.
-Package hyperref Info: Link coloring with OCG OFF on input line 6052.
-Package hyperref Info: PDF/A mode OFF on input line 6057.
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring ON on input line 6069.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
  (C:\Users\Alexander\Downloads\My Documents\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count268
-\c@Item=\count269
-\c@Hfootnote=\count270
+\Hy@abspage=\count269
+\c@Item=\count270
+\c@Hfootnote=\count271
 )
 Package hyperref Info: Driver: hpdftex.
  (C:\Users\Alexander\Downloads\My Documents\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2022-11-13 v7.00u Hyperref driver for pdfTeX
+File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
 
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count271
-\c@bookmark@seq@number=\count272
+\Fld@listcount=\count272
+\c@bookmark@seq@number=\count273
 
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/rerunfilecheck\rerunfilech
 eck.sty
@@ -231,11 +233,11 @@ Package: ifnextok 2011/06/27 v0.3 test next token (UL)
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/base\ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-\c@lcword@index=\count273
-\c@word@count=\count274
-\c@lc@words=\count275
-\c@dia@count=\count276
-\c@arg@@@index=\count277
+\c@lcword@index=\count274
+\c@word@count=\count275
+\c@lc@words=\count276
+\c@dia@count=\count277
+\c@arg@@@index=\count278
 )
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
@@ -244,7 +246,7 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \aftertitleunit=\skip61
 \ttl@plus=\dimen155
 \ttl@minus=\dimen156
-\ttl@toksa=\toks18
+\ttl@toksa=\toks19
 \titlewidth=\dimen157
 \titlewidthlast=\dimen158
 \titlewidthfirst=\dimen159
@@ -255,74 +257,91 @@ LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
 (C:\Users\Alexander\Downloads\My Documents\tex/generic/soul\soul.sty
-Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
-\SOUL@word=\toks19
-\SOUL@lasttoken=\toks20
-\SOUL@cmds=\toks21
-\SOUL@buffer=\toks22
-\SOUL@token=\toks23
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+
+(C:\Users\Alexander\Downloads\My Documents\tex/generic/soul\soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks20
+\SOUL@lasttoken=\toks21
+\SOUL@syllable=\toks22
+\SOUL@cmds=\toks23
+\SOUL@buffer=\toks24
+\SOUL@token=\toks25
+\SOUL@syllgoal=\dimen160
+\SOUL@syllwidth=\dimen161
+\SOUL@charkern=\dimen162
+\SOUL@hyphkern=\dimen163
+\SOUL@dimen=\dimen164
+\SOUL@dimeni=\dimen165
+\SOUL@minus=\count279
+\SOUL@comma=\count280
+\SOUL@apo=\count281
+\SOUL@grave=\count282
 \SOUL@spaceskip=\skip62
-\SOUL@ttwidth=\dimen160
-\SOUL@uldp=\dimen161
-\SOUL@ulht=\dimen162
+\SOUL@ttwidth=\dimen166
+\SOUL@uldp=\dimen167
+\SOUL@ulht=\dimen168
 )
+(C:\Users\Alexander\Downloads\My Documents\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/multirow\multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip63
-\multirow@cntb=\count278
+\multirow@cntb=\count283
 \multirow@dima=\skip64
-\bigstrutjot=\dimen163
+\bigstrutjot=\dimen169
 )
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count279
-\float@exts=\toks24
+\c@float@type=\count284
+\float@exts=\toks26
 \float@box=\box52
-\@float@everytoks=\toks25
+\@float@everytoks=\toks27
 \@floatcapt=\box53
 )
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/l3packages/xfrac\xfrac.sty
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/l3kernel\expl3.sty
-Package: expl3 2022-12-17 L3 programming layer (loader) 
+Package: expl3 2023-06-30 L3 programming layer (loader) 
 
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/l3backend\l3backend-pdftex
 .def
-File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count280
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count285
 \l__pdf_internal_box=\box54
 )) (C:\Users\Alexander\Downloads\My Documents\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks26
-\ex@=\dimen164
+\@emptytoks=\toks28
+\ex@=\dimen170
 ))
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/l3packages/l3keys2e\l3keys
 2e.sty
-Package: l3keys2e 2022-12-17 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
 ) (C:\Users\Alexander\Downloads\My Documents\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/l3packages/xparse\xparse.s
 ty
-Package: xparse 2022-12-17 L3 Experimental document command parser
+Package: xparse 2023-02-02 L3 Experimental document command parser
 )
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/l3packages/xtemplate\xtemp
 late.sty
-Package: xtemplate 2022-12-17 L3 Experimental prototype document functions
-\l__xtemplate_tmp_dim=\dimen165
-\l__xtemplate_tmp_int=\count281
+Package: xtemplate 2023-02-02 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen171
+\l__xtemplate_tmp_int=\count286
 \l__xtemplate_tmp_muskip=\muskip17
 \l__xtemplate_tmp_skip=\skip65
 )
-Package: xfrac 2022-12-17 L3 Experimental split-level fractions
+Package: xfrac 2023-02-02 L3 Experimental split-level fractions
 \l__xfrac_slash_box=\box55
 \l__xfrac_tmp_box=\box56
-\l__xfrac_denominator_bot_sep_dim=\dimen166
-\l__xfrac_numerator_bot_sep_dim=\dimen167
-\l__xfrac_numerator_top_sep_dim=\dimen168
-\l__xfrac_slash_left_sep_dim=\dimen169
-\l__xfrac_slash_right_sep_dim=\dimen170
+\l__xfrac_denominator_bot_sep_dim=\dimen172
+\l__xfrac_numerator_bot_sep_dim=\dimen173
+\l__xfrac_numerator_top_sep_dim=\dimen174
+\l__xfrac_slash_left_sep_dim=\dimen175
+\l__xfrac_slash_right_sep_dim=\dimen176
 \l__xfrac_slash_left_muskip=\muskip18
 \l__xfrac_slash_right_muskip=\muskip19
 
@@ -330,6 +349,138 @@ Package xtemplate Info: Declaring object type 'xfrac' taking 3 argument(s) on
 (xtemplate)             line 80.
 
 )
+(C:\Users\Alexander\Downloads\My Documents\tex/latex/cmbright\cmbright.sty
+Package: cmbright 2005/04/13 v8.1 (WaS)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmbr/m/n on input line 29.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmbr/m/n on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/cmbrm/m/it on input line 30.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/cmbrm/m/it on input line 30.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmbrm/m/it --> OML/cmbrm/b/it on input line 31.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 32.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/cmbrs/m/n on input line 32.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/cmbrs/m/n on input line 32.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/cmbr/m/sl on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/cmbr/m/sl on input line 33.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/cmbr/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmbr/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtl/m/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtl/m/n on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \alpha on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \beta on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \gamma on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \delta on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \epsilon on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \zeta on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \eta on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \theta on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \iota on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \kappa on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \lambda on input line 47.
+LaTeX Font Info:    Redeclaring math symbol \mu on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \nu on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \xi on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \pi on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \rho on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \sigma on input line 53.
+LaTeX Font Info:    Redeclaring math symbol \tau on input line 54.
+LaTeX Font Info:    Redeclaring math symbol \upsilon on input line 55.
+LaTeX Font Info:    Redeclaring math symbol \phi on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \chi on input line 57.
+LaTeX Font Info:    Redeclaring math symbol \psi on input line 58.
+LaTeX Font Info:    Redeclaring math symbol \omega on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \varepsilon on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \vartheta on input line 61.
+LaTeX Font Info:    Redeclaring math symbol \varpi on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \varrho on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \varsigma on input line 64.
+LaTeX Font Info:    Redeclaring math symbol \varphi on input line 65.
+LaTeX Info: Redefining \LaTeX on input line 129.
+LaTeX Info: Redefining \LaTeXe on input line 139.
+LaTeX Font Info:    Trying to load font information for OT1+cmbr on input line 
+144.
+
+(C:\Users\Alexander\Downloads\My Documents\tex/latex/cmbright\ot1cmbr.fd
+File: ot1cmbr.fd 2005/04/13 v8.1 (WaS)
+))
+(C:\Users\Alexander\Downloads\My Documents\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen177
+\WF@size=\dimen178
+\c@WF@wrappedlines=\count287
+\WF@box=\box57
+\WF@everypar=\toks29
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\Alexander\Downloads\My Documents\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\Alexander\Downloads\My Documents\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\Alexander\Downloads\My Documents\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Users\Alexander\Downloads\My Documents\tex/latex/listings\listings.sty
+\lst@mode=\count288
+\lst@gtempboxa=\box58
+\lst@token=\toks30
+\lst@length=\count289
+\lst@currlwidth=\dimen179
+\lst@column=\count290
+\lst@pos=\count291
+\lst@lostspace=\dimen180
+\lst@width=\dimen181
+\lst@newlines=\count292
+\lst@lineno=\count293
+\lst@maxwidth=\dimen182
+
+(C:\Users\Alexander\Downloads\My Documents\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count294
+\lst@skipnumbers=\count295
+\lst@framebox=\box59
+)
+(C:\Users\Alexander\Downloads\My Documents\tex/latex/listings\listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+
+(C:\Users\Alexander\Downloads\My Documents\tex/latex/titling\titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip66
+\thanksmargin=\skip67
+\droptitle=\skip68
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 26.
+Package hyperref Info: Option `breaklinks' set `true' on input line 26.
+
 
 LaTeX Warning: Unused global option(s):
     [timesnewroman].
@@ -337,24 +488,24 @@ LaTeX Warning: Unused global option(s):
 (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -390,17 +541,7 @@ LaTeX Font Info:    ... okay on input line 17.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(C:\Users\Alexander\Downloads\My Documents\tex/latex/graphics\color.sty
-Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
-
-(C:\Users\Alexander\Downloads\My Documents\tex/latex/graphics-cfg\color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package color Info: Driver file: pdftex.def on input line 149.
-
-(C:\Users\Alexander\Downloads\My Documents\tex/latex/graphics\mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 17.
-
+Package hyperref Info: Link coloring ON on input line 56.
 (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
@@ -408,93 +549,159 @@ Package hyperref Info: Link coloring ON on input line 17.
 
 (C:\Users\Alexander\Downloads\My Documents\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count282
-\scratchdimen=\dimen171
-\scratchbox=\box57
-\nofMPsegments=\count283
-\nofMParguments=\count284
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count285
-\MPscratchDim=\dimen172
-\MPnumerator=\count286
-\makeMPintoPDFobject=\count287
-\everyMPtoPDFconversion=\toks28
+\scratchcounter=\count296
+\scratchdimen=\dimen183
+\scratchbox=\box60
+\nofMPsegments=\count297
+\nofMParguments=\count298
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count299
+\MPscratchDim=\dimen184
+\MPnumerator=\count300
+\makeMPintoPDFobject=\count301
+\everyMPtoPDFconversion=\toks32
 )
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/epstopdf-pkg\epstopdf-base
 .sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
- (C:\Users\Alexander\Downloads\My Documents\tex/latex/grfext\grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.jpeg,.png,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (C:\Users\Alexander\Downloads\My Documents\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)) (sections/summary.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--28
+))
+\c@lstlisting=\count302
+ (sections/Title_page.tex
+<figures/AFRL-logo.png, id=111, 433.62pt x 142.3719pt>
+File: figures/AFRL-logo.png Graphic file (type png)
+<use figures/AFRL-logo.png>
+Package pdftex.def Info: figures/AFRL-logo.png  used on input line 5.
+(pdftex.def)             Requested size: 469.75502pt x 154.24379pt.
+LaTeX Font Info:    Font shape `OT1/cmbr/b/n' in size <24.88> not available
+(Font)              Font shape `OT1/cmbr/bx/n' tried instead on input line 9.
+LaTeX Font Info:    Font shape `OT1/cmbr/b/n' in size <12> not available
+(Font)              Font shape `OT1/cmbr/bx/n' tried instead on input line 16.
+LaTeX Font Info:    Font shape `OT1/cmbr/m/it' in size <12> not available
+(Font)              Font shape `OT1/cmbr/m/sl' tried instead on input line 19.
 
- []
+
+LaTeX Font Warning: Font shape `OT1/cmbr/b/it' undefined
+(Font)              using `OT1/cmbr/b/n' instead on input line 19.
+
+LaTeX Font Info:    Trying to load font information for TS1+cmbr on input line 
+23.
+(C:\Users\Alexander\Downloads\My Documents\tex/latex/cmbright\ts1cmbr.fd
+File: ts1cmbr.fd 2005/04/13 v8.1 (WaS)
+)
+LaTeX Font Info:    Font shape `OT1/cmbr/b/it' in size <12> not available
+(Font)              Font shape `OT1/cmbr/bx/n' tried instead on input line 23.
 
 [1
 
-{C:/Users/Alexander/AppData/Local/MiKTeX/2.9/fonts/map/pdftex/pdftex.map}]
-(sections/description.tex
-Underfull \hbox (badness 10000) in paragraph at lines 7--11
+{C:/Users/Alexander/AppData/Local/MiKTeX/2.9/fonts/map/pdftex/pdftex.map} <./fi
+gures/AFRL-logo.png>])
+LaTeX Font Info:    Font shape `OT1/cmbr/b/n' in size <17.28> not available
+(Font)              Font shape `OT1/cmbr/bx/n' tried instead on input line 67.
+ (sections/summary.tex
+LaTeX Font Info:    Font shape `OT1/cmbr/b/n' in size <14.4> not available
+(Font)              Font shape `OT1/cmbr/bx/n' tried instead on input line 1.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 3--70
+
+ []
+
+[1] (sections/description.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--9
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--17
+Underfull \hbox (badness 10000) in paragraph at lines 11--15
 
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 19--36
+Underfull \hbox (badness 10000) in paragraph at lines 17--78
 
  []
 
-[1] (sections/background.tex) [1] (sections/environmental-config.tex)
-(sections/code-base.tex) [1] (sections/results.tex) [1]
-(sections/conclusion.tex) (main.bbl
+[1] (sections/background.tex) [1] (sections/environmental-config.tex
+(C:\Users\Alexander\Downloads\My Documents\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+(C:\Users\Alexander\Downloads\My Documents\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+LaTeX Font Info:    Trying to load font information for OT1+cmtl on input line 
+12.
+
+(C:\Users\Alexander\Downloads\My Documents\tex/latex/cmbright\ot1cmtl.fd
+File: ot1cmtl.fd 2005/04/13 v8.1 (WaS)
+)
+[1]
+LaTeX Font Info:    Trying to load font information for TS1+cmtl on input line 
+41.
+ (C:\Users\Alexander\Downloads\My Documents\tex/latex/cmbright\ts1cmtl.fd
+File: ts1cmtl.fd 2005/04/13 v8.1 (WaS)
+)
+LaTeX Font Info:    Font shape `OT1/cmbr/b/n' in size <10.95> not available
+(Font)              Font shape `OT1/cmbr/bx/n' tried instead on input line 47.
+<figures/wsl-launch-upt-0625-rz.png, id=156, 1027.84pt x 1027.84pt>
+File: figures/wsl-launch-upt-0625-rz.png Graphic file (type png)
+<use figures/wsl-launch-upt-0625-rz.png>
+Package pdftex.def Info: figures/wsl-launch-upt-0625-rz.png  used on input line
+ 65.
+(pdftex.def)             Requested size: 225.4804pt x 225.46678pt.
+
+[2 <./figures/wsl-launch-upt-0625-rz.png>]
+LaTeX Font Info:    Font shape `OT1/cmbr/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/cmbr/m/sl' tried instead on input line 77.
+) [3] (sections/code-base.tex)
+[1] (sections/results.tex) [1] (sections/conclusion.tex) (main.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 24.
 
 ) [1] (sections/appendix.tex) (main.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
+ ***********
 
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 39A6445044DF5F49C81E8D29143B8C66;2310
-(rerunfilecheck)             After:  0A591589A7D3F444E640636A5BB7E311;2308.
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: DEF8DEC4D96D159D644C7304A96ADC81;3628.
  ) 
 Here is how much of TeX's memory you used:
- 10682 strings out of 476372
- 181655 string characters out of 2789417
- 1856787 words of memory out of 3000000
- 30854 multiletter control sequences out of 15000+600000
- 514716 words of font info for 40 fonts, out of 8000000 for 9000
+ 13488 strings out of 475516
+ 216731 string characters out of 5762384
+ 2012238 words of memory out of 5000000
+ 34425 multiletter control sequences out of 15000+600000
+ 564293 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,11n,91p,1211b,529s stack positions out of 10000i,1000n,20000p,200000b,80000s
-
-pdfTeX warning (dest): name{section.6} has been referenced but does not exist, 
-replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.3.4} has been referenced but does not ex
-ist, replaced by a fixed one
-
-<C:/Users/Alexander/Downloads/My Documents/fonts/type1/public/amsfonts/cm/cmbx1
-2.pfb><C:/Users/Alexander/Downloads/My Documents/fonts/type1/public/amsfonts/cm
-/cmr10.pfb>
-Output written on main.pdf (6 pages, 53635 bytes).
+ 90i,11n,93p,1211b,1441s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Alexander\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/public/cmbright
+/dpi657\cmbrsl10.pk> <C:\Users\Alexander\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
+ur/public/cmbright/dpi657\cmbrbx10.pk> <C:\Users\Alexander\AppData\Local\MiKTeX
+\2.9\fonts/pk/ljfour/public/cmbright/dpi540\tbtl10.pk> <C:\Users\Alexander\AppD
+ata\Local\MiKTeX\2.9\fonts/pk/ljfour/public/cmbright/dpi540\cmtl10.pk> <C:\User
+s\Alexander\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/public/cmbright/dpi450\cmb
+r8.pk> <C:\Users\Alexander\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/public/cmbr
+ight/dpi657\tbmr10.pk> <C:\Users\Alexander\AppData\Local\MiKTeX\2.9\fonts/pk/lj
+four/public/cmbright/dpi657\cmbr10.pk> <C:\Users\Alexander\AppData\Local\MiKTeX
+\2.9\fonts/pk/ljfour/public/cmbright/dpi864\cmbrbx10.pk> <C:\Users\Alexander\Ap
+pData\Local\MiKTeX\2.9\fonts/pk/ljfour/public/cmbright/dpi1037\cmbrbx10.pk> <C:
+\Users\Alexander\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/public/cmbright/dpi72
+0\tbmr10.pk> <C:\Users\Alexander\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/publi
+c/cmbright/dpi720\cmbrsl10.pk> <C:\Users\Alexander\AppData\Local\MiKTeX\2.9\fon
+ts/pk/ljfour/public/cmbright/dpi720\cmbr10.pk> <C:\Users\Alexander\AppData\Loca
+l\MiKTeX\2.9\fonts/pk/ljfour/public/cmbright/dpi720\cmbrbx10.pk> <C:\Users\Alex
+ander\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/public/cmbright/dpi1493\cmbrbx10
+.pk>
+Output written on main.pdf (10 pages, 663916 bytes).
 PDF statistics:
- 113 PDF objects out of 1000 (max. 8388607)
- 28 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 621 PDF objects out of 1000 (max. 8388607)
+ 74 named destinations out of 1000 (max. 500000)
+ 227 words of extra memory for PDF output out of 10000 (max. 10000000)
 
